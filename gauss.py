@@ -24,5 +24,3 @@ for x in range(3):
             print(matrix[z][1])
     
     print(matrix)
-
-# print(matrix)    

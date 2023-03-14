@@ -6,10 +6,6 @@ def sign(value):
     return  positive        
 
 
-
-
-
-
 def bisection(degree, coeff):
     ans = 0
     x1 = 0
